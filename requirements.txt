@@ -3,3 +3,4 @@ asyncio
 PyNaCl
 python-decouple
 youtube_dl
+ffmpeg
